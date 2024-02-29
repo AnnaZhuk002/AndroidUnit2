@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ArtSpaceApp</string>
+    <string name="art_content_description">Art image</string>
+    <string name="macaca_text">A smiling macaca</string>
+    <string name="macaca_name">Ben Abbot</string>
+    <string name="macaca_year">2022</string>
+
+    <string name="jordan_text">Michael Jordan</string>
+    <string name="jordan_name">Andrew Bold</string>
+    <string name="jordan_year">1997</string>
+
+    <string name="pepe_text">Pepe Pig</string>
+    <string name="pepe_name">Alice Jobs</string>
+    <string name="pepe_year">2008</string>
+
+    <string name="previous_btn_text">previous</string>
+    <string name="next_btn_text">next</string>
+</resources>
